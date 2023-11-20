@@ -1,0 +1,78 @@
+body{
+    background-image: url(BeFunky-photo.jpg);
+    background-repeat: no-repeat;
+}
+
+header {
+    text-align: center;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+
+   
+}
+
+
+main div{
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.recept{
+    height: 500px;
+}
+
+.steg1 p{
+    padding: 10px;
+
+
+}
+
+.steg2 p{
+    padding: 10px;
+
+}
+
+h3{
+    padding: 15px;
+}
+.ingredienser{
+    height: 320px;
+    color:  white;
+    padding: 10px;
+}
+
+.bild{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.bild img{
+    height: 250px;
+    width: 250px;
+    margin: 15px;
+    border-radius: 20px;
+    
+
+   
+}
+
+.recept div{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+section img{
+    margin: 15px;
+}
+
+
+
